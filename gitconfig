@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodrigobool@hotmail.com
+	name = Rodrigo Nobrega
